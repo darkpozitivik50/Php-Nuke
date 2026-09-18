@@ -215,4 +215,4 @@ PHP-Nuke is provided as a full free version, offering all features and updates i
 Ready to create your stunning website? **Download PHP-Nuke now and unleash your creativity!**
 
 ---
-**Last updated:** 2026-09-18 03:21:52 UTC
+**Last updated:** 2026-09-18 08:46:49 UTC
